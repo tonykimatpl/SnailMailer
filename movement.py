@@ -2,9 +2,9 @@ import time
 import serial
 import smtplib
 
-TO = 'tkim012@uottawa.ca'
-GMAIL_USER = 'tonyhojaekim@gmail.com'
-GMAIL_PASS = 'tony0611'
+TO = 'send to email goes here'
+GMAIL_USER = 'send from email goes here'
+GMAIL_PASS = 'password for email to send from'
 
 SUBJECT = 'You have (snail) mail!'
 TEXT = 'Movement was detected inside your mailbox.'
